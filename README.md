@@ -1,1 +1,1 @@
-learning...relearning.. deep neural nets.
+deep neural nets.
